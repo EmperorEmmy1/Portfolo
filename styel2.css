@@ -1,0 +1,259 @@
+
+html{
+  width: 100%;
+}
+body{
+    position: relative;
+    width: 98%;
+    height: 100%;
+    background: #1B3C53;
+
+    }
+.mobile-content{
+    display: initial;
+    height: 100vh;
+    width: 95%;
+    margin-inline: none;
+    padding: 0rem;
+    
+  }  
+
+.desktop-container{
+        display: none;
+      
+      }
+      
+.fixed-sidebar2 {
+        width: 90%;
+        color: #fff;
+       
+        position: relative; /* keeps it in place during scroll */
+        top: 0;
+        height: 80%;
+        overflow: none;
+        
+      }
+    
+    #hello1{
+        /* Hello. */
+       width: 100px;
+       height: 40px;
+       left: 30px;
+      margin-top: 10px;
+       font-family: 'Poppins';
+       font-style: normal;
+       font-weight: 700;
+       font-size: 45px;
+       line-height: 68px;
+       /* identical to box height */
+       
+       color: #F9F3EF;
+    }
+       
+    #im2{
+       /* Group 2 */
+       width: 90%;
+       height: 69px;
+      margin: 10px;
+       
+         }
+    #ui3{
+           /* UI/UX Designer & Front-End Developer */
+       width: 90%;
+       height: 25%;
+       margin: 10px;
+       font-family: 'Poppins';
+       font-style: normal;
+       font-weight: 700;
+       font-size: 28px;
+       line-height: 45px;
+       /* or 100% */
+       text-align: center;
+       color: #D2C1B6;
+       opacity: 0.7;
+       text-shadow: 0px 4px 4px rgba(168, 135, 132, 0.25);
+       
+         }
+         
+    .link{
+      display: none;
+       
+       }
+    #ABOUT{
+      /* About */
+
+      position: relative;
+     text-align: center;
+      
+      /* STOP*/
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 40px;
+      line-height: 30px;
+      /* or 75% */
+
+      color: #FFFFFF;
+      padding: 1.5rem 0rem 0rem 0rem;
+      margin:0px;
+
+
+    }
+ 
+
+       
+    .scrollable-content2 {
+
+           overflow-y: none;
+           padding-bottom: 1rem ;
+           padding-bottom: 1rem;
+           height: 100vh;
+           width: 90%;
+       }
+
+    .psh{
+
+      position: relative;
+      height: 200px;
+    }
+    .profile00{
+
+         position: absolute;
+         width: 102.44px;
+         height: 182px;
+        
+         display: inline-flex;
+         border-radius: 180px;
+
+     }
+    .second-heading2{
+     /* I'm a hybrid designer & developer who loves crafting beautiful, user-first digital products. */
+
+       /* I'm a hybrid designer & developer who loves crafting beautiful, user-first digital products. */
+
+      position: relative;
+      width: 60%;
+      height: 156px;
+      left: 110px;
+      font-family: 'DM Mono';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 1rem;
+      line-height: 25px;
+      /* or 125% */
+      text-align: center;
+
+      color: #FFFFFF;
+
+
+    }
+.second-text22{
+/* Hi, I’m a passionate UI/UX Designer and Front-End Developer who bridges the gap between beautiful design and functional code. I specialize in designing user-first interfaces and building clean, responsive websites. My process blends thoughtful UX research with pixel-perfect design and modern development practices. Currently working on a personal finance app to simplify everyday budgeting. */
+
+position: relative;
+width: 80%;
+height: 589px;
+padding: 2rem;
+
+text-align: justify;
+font-family: 'DM Mono';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+display: inline;
+color: #F9F3EF;
+
+
+}
+
+#omo{
+  padding: 1rem;
+}
+#omo1{
+  padding: 1rem;
+}
+#omo2{
+  padding: 1rem;
+}
+#second-text2{
+position: relative;
+width: 80%;
+height: 300px;
+left: 37px;
+display: none;
+
+font-family: 'DM Mono';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+}
+
+.flex-container2{/* Component 2 */
+
+position: relative;
+width: 100%;
+height: 69px;
+padding: 1rem;
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+#project{ 
+margin-bottom: 37px;
+width: 264px;
+height: 69px;
+background-color: #456882;
+border-radius: 50px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+
+color: #FFFFFF;
+
+}
+#resume{
+margin-bottom: 37px;
+width: 264px;
+height: 69px;
+background-color: #456882;
+border-radius: 50px;
+align-items: center;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+
+
+color: #FFFFFF;
+  }
+
+#resume:hover{
+  background-color: #9B9998;
+  transform: scale(1.05);
+  box-shadow: 0 0 20px rgba(0,255,255,0.5);
+
+}
+#project:hover{
+  background-color: #9B9998;
+  transform: scale(1.05);
+  box-shadow: 0 0 20px rgba(0,255,255,0.5);}
+
+  #icons1{
+    /* Group 1 */
+    display: inherit;
+    position: relative;
+    width: 220px;
+    height: 47.36px;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:40%;
+
+  }
